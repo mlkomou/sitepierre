@@ -28,9 +28,27 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/assets/css/bootstrap.min.css",
+              "src/assets/assets/css/pogo-slider.min.css",
+              "src/assets/assets/css/style.css",
+              "src/assets/assets/css/responsive.css",
+              "src/assets/assets/css/custom.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/assets/js/jquery.min.js",
+              "src/assets/assets/js/popper.min.js",
+              "src/assets/assets/js/bootstrap.min.js",
+              "src/assets/assets/js/jquery.magnific-popup.min.js",
+              "src/assets/assets/js/jquery.pogo-slider.min.js",
+              "src/assets/assets/js/slider-index.js",
+              "src/assets/assets/js/smoothscroll.js",
+              "src/assets/assets/js/form-validator.min.js",
+              "src/assets/assets/js/contact-form-script.js",
+              "src/assets/assets/js/isotope.min.js",
+              "src/assets/assets/js/images-loded.min.js",
+              "src/assets/assets/js/custom.js"
+            ]
           },
           "configurations": {
             "production": {
